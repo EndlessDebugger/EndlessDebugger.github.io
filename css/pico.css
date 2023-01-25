@@ -2658,21 +2658,21 @@ textarea,
 
 /*# sourceMappingURL=pico.css.map */
 .aggie{
-  display: inline;
-  color: #800000;
+    display: inline;
+    color: #800000;
 }
 
 .mytitles h3{
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .abouttext{
-  margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 .homepfp{
-  width: 16rem;
-  height: 20rem;
-  border-radius: 20%;
+    width: 16rem;
+    height: 20rem;
+    border-radius: 20%;
 }
