@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /recipes/long_island_ice_tea
+Disallow: /hack
