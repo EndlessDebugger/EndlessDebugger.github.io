@@ -310,8 +310,8 @@ kbd {
 
 @media only screen and (prefers-color-scheme: dark) {
   :root:not([data-theme=light]) {
-    --background-color: #11191f;
-    --color: hsl(205deg, 16%, 77%);
+    --background-color: #003C61;
+    --color: #EEF0F2;
     --h1-color: hsl(205deg, 20%, 94%);
     --h2-color: #e1e6eb;
     --h3-color: hsl(205deg, 18%, 86%);
@@ -416,8 +416,8 @@ kbd {
   }
 }
 [data-theme=dark] {
-  --background-color: #11191f;
-  --color: hsl(205deg, 16%, 77%);
+  --background-color: #003C61;
+  --color: #EEF0F2;
   --h1-color: hsl(205deg, 20%, 94%);
   --h2-color: #e1e6eb;
   --h3-color: hsl(205deg, 18%, 86%);
@@ -616,7 +616,7 @@ body > footer {
 }
 @media (min-width: 1200px) {
   .container {
-    max-width: 1130px;
+    max-width: 1400px;
   }
 }
 
@@ -2654,25 +2654,4 @@ textarea,
     transition-delay: 0s !important;
     transition-duration: 0s !important;
   }
-}
-
-/*# sourceMappingURL=pico.css.map */
-.aggie{
-    display: inline;
-    color: #800000;
-}
-
-.mytitles h3{
-    margin: 0;
-    padding: 0;
-}
-
-.abouttext{
-    margin-bottom: 0.5em;
-}
-
-.homepfp{
-    width: 16rem;
-    height: 20rem;
-    border-radius: 20%;
 }
